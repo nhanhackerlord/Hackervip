@@ -8,19 +8,19 @@ game:GetService("Players").LocalPlayer.Idled:connect(function()
 end)
  
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Arsenal Script";
-    Text = "Made by Nhan 🦁"; 
+    Title = "Made by Dnhan 🐸";
+    Text = "Made by Dnhan 🐸"; 
     Duration = 9999999999999999999999999999;
 })
 wait(1)
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Tận hưởng!";
+    Title = "Made by Dnhan 🐸!";
     Text = "Đây là Script Arsenal Vip!"; 
     Duration = 999999999999999999999999999999999999999999999999999999;
 })
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Bay Acc";
-    Text = "Hack ViP"; 
+    Title = "Made by Dnhan 🐸";
+    Text = "Made by Dnhan 🐸"; 
     Duration = 9999999999999999999999999999;
 })
 
