@@ -9,14 +9,14 @@ end)
  
 game.StarterGui:SetCore("SendNotification", {
     Title = "Arsenal Script";
-    Text = "Made by Dnhan 🐸"; 
-    Duration = 9999999999999999999999999999;
+    Text = "#Bốp Bi 🤓"; 
+    Duration = 60;
 })
 wait(1)
 game.StarterGui:SetCore("SendNotification", {
     Title = "Enjoy!";
-   Text = "If you like script leave a comment"; 
-    Duration = 999999999999999999999999999999999999999999999999999999;
+   Text = "Donate me 1 🚀"; 
+    Duration = 60;
 })
 
 
